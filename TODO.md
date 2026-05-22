@@ -1,0 +1,6 @@
+- [x] Review dan modifikasi `resources/views/welcome.blade.php` sesuai plan:
+    - [x] Hapus link "Kontak" dari header menu
+    - [x] Hapus link "Kontak" dari footer/header down
+    - [x] Jadikan tombol "Hubungi Kami" menjadi anchor link menuju heading "Hubungi Kami" di kolom kiri maps (kolom kiri)
+    - [x] Jadikan "Lihat Menu Kami" menjadi link yang mengarah ke section `#menu`
+- [x] Jalankan pemeriksaan cepat (build/serve jika diperlukan) dan pastikan anchor navigation berfungsi
